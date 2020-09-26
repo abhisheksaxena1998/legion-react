@@ -2,6 +2,4 @@
 
 1. Create app
 
-    '''
-    create-react-app react-app
-    '''
+        create-react-app react-app
